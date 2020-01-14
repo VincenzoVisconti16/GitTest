@@ -1,4 +1,4 @@
-LAVORARE CON MOLTA CAUTELA.
+﻿LAVORARE CON MOLTA CAUTELA.
 
 git clone + indirizzo repository che sta su github (clone or download) -> copia della repository sul PC
 
@@ -14,7 +14,7 @@ file config, in cui vengono inserite le informazioni sull'account di github
 
 git config --global user.email "EMAIL GITHUB" || git config --global user.name "NICKNAME GITHUB"-> ti permette di configurare le informazioni dell'accounti github (chi sta committando)
 
-git pull origin NOMEBRANCH (master) -> ti riprende quello che già è nella repository, in caso di eventuali modifiche fatte precedentemente da altre persone
+git pull origin NOMEBRANCH (master) -> git riprende quello che già è nella repository, in caso di eventuali modifiche fatte precedentemente da altre persone
 
 git push origin NOMEBRANCH(master) -> invia il file nella repository
 
